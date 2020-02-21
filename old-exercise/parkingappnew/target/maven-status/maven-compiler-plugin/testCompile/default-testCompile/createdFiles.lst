@@ -1,0 +1,4 @@
+com\enigma\impl\FixedReaderDaoImplTest.class
+com\enigma\model\CarTest.class
+com\enigma\impl\ParkingLotDaoImplTest.class
+com\enigma\impl\CarParkingFeeDaoTest.class

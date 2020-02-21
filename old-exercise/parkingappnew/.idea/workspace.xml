@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1becdbf0-4988-4953-8055-2e31bbe428cd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="150" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U8OArhsbpUWKt4ox7r1R0yqQkE" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/enigma" />
+    <property name="last_opened_file_path" value="E:/Java/fromExcerciseDkatalis/warehouseapp" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+      <recent name="com.enigma.model" />
+      <recent name="com.enigma.impl" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.enigma.impl" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.enigma" />
+      <recent name="com.enigma.dao" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ParkingLotDaoImplTest.leave_should_return_num_of_available_slot">
+    <configuration name="CarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parkingappnew" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enigma.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.enigma.model" />
+      <option name="MAIN_CLASS_NAME" value="com.enigma.model.CarTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParkingLotDaoImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parking-app-new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enigma.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.enigma.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.enigma.impl.ParkingLotDaoImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParkingLotDaoImplTest.leave_should_return_message_lincenseNumber_not_found" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parking-app-new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enigma.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.enigma.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.enigma.impl.ParkingLotDaoImplTest" />
+      <option name="METHOD_NAME" value="leave_should_return_message_lincenseNumber_not_found" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParkingLotDaoImplTest.leave_should_return_num_of_available_slot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parking-app-new" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enigma.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.enigma.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.enigma.impl.ParkingLotDaoImplTest" />
+      <option name="METHOD_NAME" value="leave_should_return_num_of_available_slot" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParkingLotDaoImplTest.should_able_to_park_when_parking_slot_is_empty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parkingappnew" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.enigma.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.enigma.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.enigma.impl.ParkingLotDaoImplTest" />
+      <option name="METHOD_NAME" value="should_able_to_park_when_parking_slot_is_empty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ParkingLotDaoImplTest.leave_should_return_num_of_available_slot" />
+        <item itemvalue="JUnit.ParkingLotDaoImplTest" />
+        <item itemvalue="JUnit.ParkingLotDaoImplTest.leave_should_return_message_lincenseNumber_not_found" />
+        <item itemvalue="JUnit.ParkingLotDaoImplTest.should_able_to_park_when_parking_slot_is_empty" />
+        <item itemvalue="JUnit.CarTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1becdbf0-4988-4953-8055-2e31bbe428cd" name="Default Changelist" comment="" />
+      <created>1574734614361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574734614361</updated>
+      <workItem from="1574734617652" duration="62452000" />
+      <workItem from="1575343691744" duration="26244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/parkingappnew$CarTest.ic" NAME="CarTest Coverage Results" MODIFIED="1574851792831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.enigma.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/parkingappnew$ParkingLotDaoImplTest.ic" NAME="ParkingLotDaoImplTest Coverage Results" MODIFIED="1574819094969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.enigma.impl.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/parkingappnew$CarParkingFeeDaoTest.ic" NAME="CarParkingFeeDaoTest Coverage Results" MODIFIED="1574820267449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.enigma.impl.*</FILTER>
+    </SUITE>
+  </component>
+</project>
